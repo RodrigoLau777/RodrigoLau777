@@ -1,6 +1,6 @@
 <h1 align="center">Greetings Partners<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### ⚠️ I am a student at 4Geeks Academy so, curently this is my first try making my readme, hope you like it ⚠️
+### ⚠️ I am a student at 4Geeks Academy so, curently this is my first try making my readme, hope you like it!
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -17,7 +17,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-rodrigolauramos-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/rodrigolauramos/)](https://www.instagram.com/rodrigolauramos/)
 
 
-<h2 align="center"><img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://static.wixstatic.com/media/382246_471b71920f224e25b496d3aa97033f9d~mv2.png/v1/fill/w_560,h_560,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/382246_471b71920f224e25b496d3aa97033f9d~mv2.png)">"Vorfelan Rhinata Morie 📖"</a></h2>
+<h2 align="center">"Vorfelan Rhinata Morie 📖"</a></h2>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
