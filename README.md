@@ -1,9 +1,6 @@
-<h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+<h1 align="center">Greetings Partners<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### :smiley_cat: I am a student at SMK Telkom Malang
-
-### so, curently this is my first try making my readme, hope you like it 😄
-### and, you can call me asthi or seta
+### ⚠️ I am a student at 4Geeks Academy so, curently this is my first try making my readme, hope you like it ⚠️
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -20,7 +17,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-rodrigolauramos-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/rodrigolauramos/)](https://www.instagram.com/rodrigolauramos/)
 
 
-<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"Valar Morghulis"</a></h2>
+<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"Vorfelan Rhinata Morie 🐺"</a></h2>
 
 <!--
 **RodrigoLau777/RodrigoLau777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
