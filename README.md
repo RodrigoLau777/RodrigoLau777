@@ -7,7 +7,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## By the way here are some of my statistics 🚀
+## By the way here are some of my statistics ⚡
 ![Rodrigo Lau github stats](https://github-readme-stats.vercel.app/api?username=RodrigoLau777&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoLau777&theme=tokyonight" alt="mystreak"/>
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoLau777&theme=tokyonight&layout=compact)
@@ -16,12 +16,11 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## Contact me : 
+## Contact me 💬: 
 [![Instagram Badge](https://img.shields.io/badge/-rodrigolauramos-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/rodrigolauramos/)](https://www.instagram.com/rodrigolauramos/)
 
 
-<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
+<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"Valar Morghulis"</a></h2>
 
 <!--
 **RodrigoLau777/RodrigoLau777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
